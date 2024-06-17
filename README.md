@@ -9,6 +9,6 @@ Hello! 👋 I'm Panagiotis Leftheriotis, a student at the Department of Digital 
 
 
 ## Projects
-Car-rental web app in Java
-Airlines Ticket Reservation app with MEVN stack
-Cinema Ticket Reservation using PHP and mySQL
+- Car-rental web app in Java
+- Airlines Ticket Reservation app with MEVN stack
+- Cinema Ticket Reservation using PHP and mySQL
