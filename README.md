@@ -14,4 +14,4 @@ I'm Panagiotis Leftheriotis, a graduate of the Department of Digital Systems at 
 - Cinema Ticket Reservation using PHP and mySQL
 
 ## Thesis
-Hot-spot analysis of spatio-temporal data
+Hotspot Analysis of Spatio-Temporal Data
