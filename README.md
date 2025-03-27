@@ -1,6 +1,6 @@
 # About Me
 
-Hello! 👋 I'm Panagiotis Leftheriotis, a student at the Department of Digital Systems at the University of Piraeus soon to be a graduate.
+I'm Panagiotis Leftheriotis, a graduate of the Department of Digital Systems at the University of Piraeus.
 
 ## Contact
 
@@ -12,3 +12,6 @@ Hello! 👋 I'm Panagiotis Leftheriotis, a student at the Department of Digital 
 - Car-rental web app in Java
 - Airlines Ticket Reservation app with MEVN stack
 - Cinema Ticket Reservation using PHP and mySQL
+
+## Thesis
+Hot-spot analysis of spatio-temporal data
